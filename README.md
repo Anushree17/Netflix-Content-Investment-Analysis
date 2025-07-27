@@ -1,4 +1,5 @@
 # Netflix Content Investment Analysis
+<img src='https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1050x591.v1582751026.png' width="700" height="500">
 <h2>Business Problem</h2>
 <p>Netflix aimed to analyze content performance to guide smarter content investment decisions across regions, genres, and formats. The key focus was on identifying high-engagement genres and production countries while understanding evolving content trends.</p>
 <h2>Dataset</h2>
